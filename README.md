@@ -1,8 +1,3 @@
-![Release](https://img.shields.io/badge/release-stable%201.0.0-green.svg)
-![Language](https://img.shields.io/badge/made%20with-bash-brightgreen.svg)
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
-![LastUpdate](https://img.shields.io/badge/last%20update-2019%2F05-orange.svg)
-![TestedOn](https://img.shields.io/badge/tested%20on-Kali%20Linux-red.svg)
 
 <p align="center"><img src="https://github.com/Leviathan36/kaboom/blob/master/kaboom_images/logo.png" width="80%" height="auto"></p>
 
@@ -127,5 +122,7 @@ Author assume no liability and are not responsible for any misuse or damage caus
 
 Kaboom is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-## License:
-Kaboom is released under GPLv3 license. See [LICENSE](LICENSE) for more details.
+Get Me At Github and Telegram 
+
+https://github.com/alex14324
+https://t.me/alex14324
